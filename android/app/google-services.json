@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700936123227",
+    "project_id": "cricoscorer-a9485",
+    "storage_bucket": "cricoscorer-a9485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700936123227:android:b58d9533ba26bef1e7e07e",
+        "android_client_info": {
+          "package_name": "com.cricoscorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700936123227-2fgju7si2kmnm3fe5gaai3nad4ei2l7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricoscorer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "700936123227-7ssq10rp107jrt6f6kdrgt4rpibu5j5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL13OCCHNoBdew2fhxRGbbsi57nKoRbX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700936123227-7ssq10rp107jrt6f6kdrgt4rpibu5j5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
